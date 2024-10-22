@@ -13,5 +13,13 @@ int main(){
     for(int i=0;i<n;i++){
         cout<<arr[i]<<" ";
     }
+    int a;
+    int b;
+    cout<<"Enter the a and b for addition!";
+    cin>>a>>b;
+    int sum;
+    sum = a+b;
+    cout<<sum;
+
 
 }
